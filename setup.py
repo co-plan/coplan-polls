@@ -8,10 +8,10 @@ setup(
     name='polls',
     version=polls.__version__,
     description='',
-    author='Jakub Janoszek',
-    author_email='kuba.janoszek@gmail.com',
+    author='Oerd Cukalla',
+    author_email='oerdcukalla@gmail.com',
     include_package_data=True,
-    url='https://github.com/divio/django-polls/tree/ver-%s' % polls.__version__,
+    url='https://github.com/co-plan/coplan-polls/tree/ver-%s' % polls.__version__,
     packages=find_packages(),
     classifiers=[
         'Development Status :: 4 - Beta',
