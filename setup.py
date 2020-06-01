@@ -5,7 +5,7 @@ import polls
 
 
 setup(
-    name='polls',
+    name='coplan-polls',
     version=polls.__version__,
     description='',
     author='Oerd Cukalla',
