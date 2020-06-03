@@ -5,13 +5,13 @@ import polls
 
 
 setup(
-    name='coplan-polls',
+    name='coplan_polls',
     version=polls.__version__,
     description='',
     author='Oerd Cukalla',
     author_email='oerdcukalla@gmail.com',
     include_package_data=True,
-    url='https://github.com/co-plan/coplan-polls/tree/ver-%s' % polls.__version__,
+    url='https://github.com/co-plan/coplan-polls/tree/v%s' % polls.__version__,
     packages=find_packages(),
     classifiers=[
         'Development Status :: 4 - Beta',
